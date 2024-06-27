@@ -1,7 +1,7 @@
 import { FaPlus } from "react-icons/fa";
 // import { server } from "../redux/store";
 import { CartItem } from "../types/types";
-const server = "https://backend-server-3fhi.onrender.com";
+const server = "https://backend-server-ghf9.onrender.com";
 type ProductsProps = {
   productId: string;
   photo: string;

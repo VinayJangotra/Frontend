@@ -7,7 +7,7 @@ import {
   UserResponse,
 } from "../../types/api-types";
 import { User } from "../../types/types";
-const VITE_SERVER = "https://backend-server-3fhi.onrender.com";
+const VITE_SERVER = "https://backend-server-ghf9.onrender.com";
 export const userAPI = createApi({
   reducerPath: "userApi",
   baseQuery: fetchBaseQuery({

@@ -10,7 +10,7 @@ import {
   SearchProductsResponse,
   UpdateProductRequest,
 } from "../../types/api-types";
-const VITE_SERVER = "https://backend-server-3fhi.onrender.com";
+const VITE_SERVER = "https://backend-server-ghf9.onrender.com";
 export const productAPI = createApi({
   reducerPath: "productApi",
   baseQuery: fetchBaseQuery({

@@ -5,7 +5,7 @@ import {
   PieResponse,
   StatsResponse,
 } from "../../types/api-types";
-const VITE_SERVER = "https://backend-server-3fhi.onrender.com";
+const VITE_SERVER = "https://backend-server-ghf9.onrender.com";
 export const dashboardApi = createApi({
   reducerPath: "dashboardApi",
   baseQuery: fetchBaseQuery({

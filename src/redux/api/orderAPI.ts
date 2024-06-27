@@ -6,7 +6,7 @@ import {
   OrderDetailsResponse,
   UpdateOrderRequest,
 } from "../../types/api-types";
-const VITE_SERVER = "https://backend-server-3fhi.onrender.com";
+const VITE_SERVER = "https://backend-server-ghf9.onrender.com";
 export const orderApi = createApi({
   reducerPath: "orderApi",
   baseQuery: fetchBaseQuery({
